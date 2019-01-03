@@ -36,6 +36,7 @@ public class App
     			e.printStackTrace();
     		}
         }
+        System.out.println("Đã hoàn thành!");
     }
     
     public static void removeHFFromFile(File f) throws Exception {
